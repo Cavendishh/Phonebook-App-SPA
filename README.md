@@ -24,4 +24,5 @@
   <li>Update phone number of existing contact by adding a new person with the same name</li>
   <li>Remove contact</li>
   <li>Use the search bar to find contacts</li>
+  <li>The form will be validated and shows possible errors; it checks the length of the phone number and check that contact exists or not</li>
 </ul>
