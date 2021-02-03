@@ -1,6 +1,6 @@
 <p><strong>Single Page Application</strong></p>
-<p><strong>Category: SPA (MERN-stack)</strong></p>
-<p><strong>Project date: October 2020</strong></p>
+<p><strong>Category:</strong> SPA (MERN-stack)</p>
+<p><strong>Project date:</strong> October 2020</p>
 <p><strong>Project URL:</strong> https://thawing-chamber-18438.herokuapp.com/</p>
 <p><strong>Summary: </strong>
   This project's main idea was to learn some Full Stack (MERN) development by learning integrating frontend, backend and databases together. It is made from scratch to publishing. 
