@@ -10,7 +10,7 @@
 </p>
 <p><strong>Tools and technologies used:</strong><p>
 <ul>
-  <li>React v16.8+</li>
+  <li>React</li>
   <li>React Bootstrap</li>
   <li>Node.js</li>
   <li>Express</li>
